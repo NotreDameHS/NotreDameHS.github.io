@@ -1,0 +1,12 @@
+You find yourself awake in a cave alone
+
+Traverse the caves to find coins hidden across the map
+Watch out for enemies that roam the cave
+Dodge the spikes
+Find the door to finish the game
+
+Controls
+[ A ] - Left
+[ D ] - Right
+[ Space ] - Jump
+[ Left Click ] - Attack
