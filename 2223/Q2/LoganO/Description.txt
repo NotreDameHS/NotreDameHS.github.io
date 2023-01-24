@@ -1,3 +1,8 @@
-My Game is a topdown Metroidvania style game where the player travels around the map defeating enemies and collecting powerups.  The goal of the game is to defeat the 
-onslaught of enemies in the labratory area unlocking the door and collecting the White Crystal.  The player can control the characters movement with the W/A/S/D Keys, Attack
-in each direction with its respective arrow Key, as well as preform a dodge roll with the space bar.
+Welcome to Champion!
+This game is a top down in which the player whom you control must make it to the end, while avoiding enemies and obstacles.
+
+Objective:
+To make it to the end of the game without being hit by the enemy
+
+Controls:
+use WASD on the keyboard to move(W for up, A left, S down, D right)
