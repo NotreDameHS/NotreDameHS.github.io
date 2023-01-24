@@ -1,0 +1,17 @@
+Description
+
+A simple top-down-game where your goal is make it to the top of the map where the tents are to win.
+You must avoid rocks because they might make you slow down, and slimes that are trying to kill you or you can attack the slimes.
+You have 5 Lives before you die 
+
+
+Controls 
+
+W - Move up
+A - Move left
+S - Move down
+D - Move right
+
+left Click - Attack
+
+
