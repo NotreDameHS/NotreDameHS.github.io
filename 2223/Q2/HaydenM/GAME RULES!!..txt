@@ -1,0 +1,8 @@
+Welcome to Champion!
+This game is a top down in which the player whom you control must make it to the end, while avoiding enemies and obstacles.
+
+Objective:
+To make it to the end of the game without being hit by the enemy
+
+Controls:
+use WASD on the keyboard to move(W for up, A left, S down, D right)
